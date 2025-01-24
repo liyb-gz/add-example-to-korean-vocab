@@ -24,7 +24,7 @@ The input vocabulary file should be a TSV file with the following columns:
 3. Hanja (Chinese characters) if applicable
 4. Audio file reference
 5. Example sentence (will be populated)
-6. Example sentence audio reference
+6. Example sentence's English translation (will be populated)
 7. ID number
 
 ## Usage
