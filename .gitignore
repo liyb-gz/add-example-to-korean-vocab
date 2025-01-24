@@ -1,1 +1,4 @@
 __pycache__/
+vocab.tsv
+progress.tsv
+vocab_with_examples.tsv
